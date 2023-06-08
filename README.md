@@ -15,6 +15,8 @@ https://github.com/oreynosa12/snp-it19.git
 
 You can use this application to write down your notes or ideas even if you have no internet connection.
 
+![image](https://github.com/oreynosa12/snp-it19/assets/121472588/639330db-4788-40ec-b820-156f1d4924aa)
+
 ## Credits
 
 Xandromus@github.com
