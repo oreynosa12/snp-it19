@@ -11,6 +11,8 @@ you will have to open your integrated terminal from the root folder and type npm
 
 https://github.com/oreynosa12/snp-it19.git
 
+https://boiling-stream-12872.herokuapp.com/
+
 ## Usage
 
 You can use this application to write down your notes or ideas even if you have no internet connection.
